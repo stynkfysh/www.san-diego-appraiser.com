@@ -1,0 +1,37 @@
+# San Diego Appraiser (san-diego-appraiser.com)
+
+> San Diego County residential appraisal directory of Brian Ward Appraisal (parent site https://www.brianward.com). Brian Ward is a California Certified Residential Real Estate Appraiser, appraising since 2004 with 7,000+ assignments. Phone (619) 630-9273, contact@san-diego-appraiser.com, 15877 Paseo Del Sur, San Diego, CA.
+
+## Key pages
+- [Services](https://www.san-diego-appraiser.com/services)
+- [Fees](https://www.san-diego-appraiser.com/fees): Basic Desktop $299, Desktop $449, Drive-By $649, Standard $699, Desktop 2-4 Unit $549, Standard 2-4 Unit $799
+- [Communities](https://www.san-diego-appraiser.com/areas)
+- [FAQ](https://www.san-diego-appraiser.com/faq)
+- [Contact](https://www.san-diego-appraiser.com/contact)
+
+## Services
+- [Date of Death Appraisals](https://www.san-diego-appraiser.com/services/date-of-death-appraisals): A value pinned to the day an owner died, for trustees, executors and the stepped-up basis their CPA will rely on.
+- [Divorce Appraisals](https://www.san-diego-appraiser.com/services/divorce-appraisals): An impartial value for the family residence or rental property so a settlement can move forward on solid ground.
+- [Estate & Trust Appraisals](https://www.san-diego-appraiser.com/services/estate-trust-appraisals): Fair market value for trust funding, distribution and probate inventories, written for fiduciaries and their counsel.
+- [Bankruptcy Appraisals](https://www.san-diego-appraiser.com/services/bankruptcy-appraisals): Supportable home values for Chapter 7 and Chapter 13 schedules, exemption planning and trustee review.
+- [Expert Witness & Litigation Support](https://www.san-diego-appraiser.com/services/expert-witness): Appraisal testimony and consulting for disputes over value in court, arbitration or mediation.
+- [Pre-Purchase Appraisals](https://www.san-diego-appraiser.com/services/pre-purchase-appraisals): Learn what a house is actually worth before you write the offer, especially on unusual or off-market properties.
+- [Pre-Sale Appraisals](https://www.san-diego-appraiser.com/services/pre-sale-appraisals): Price a listing from evidence, not hope, and hand buyers a value that has already been documented.
+- [Tax Appraisals](https://www.san-diego-appraiser.com/services/tax-appraisals): Values for assessment appeals, gift-tax returns and other filings where a tax authority wants proof.
+- [Family Transaction Appraisals](https://www.san-diego-appraiser.com/services/family-transaction-appraisals): A documented fair price when a home is sold, gifted or refinanced between relatives.
+- [Insurance Dispute Appraisals](https://www.san-diego-appraiser.com/services/insurance-dispute-appraisals): Independent market-value evidence when a carrier's numbers and the homeowner's numbers do not agree.
+- [Bail Bond Appraisals](https://www.san-diego-appraiser.com/services/bail-bond-appraisals): Fast equity verification when a house is pledged as collateral for a bail or court bond.
+- [Immigration Appraisals](https://www.san-diego-appraiser.com/services/immigration-appraisals): Real-estate valuations that document a sponsor's or applicant's assets for immigration filings.
+
+## Regions and communities
+- [Central City of San Diego](https://www.san-diego-appraiser.com/areas/region-central): City of San Diego, Hillcrest, Mission Hills, North Park, South Park, Golden Hill, Normal Heights, University Heights, Kensington, Talmadge, City Heights, College Area, Mission Valley, Linda Vista
+- [San Diego Beach & Bay Neighborhoods](https://www.san-diego-appraiser.com/areas/region-beach): La Jolla, Pacific Beach, Mission Beach, Ocean Beach, Point Loma, Bay Park
+- [Mid-City Mesas & Canyons](https://www.san-diego-appraiser.com/areas/region-mesa): Clairemont, Serra Mesa, Tierrasanta, Allied Gardens, San Carlos, Del Cerro, University City, Mira Mesa
+- [Northern San Diego & the I-15 Corridor](https://www.san-diego-appraiser.com/areas/region-north-city): Carmel Valley, Torrey Hills, Pacific Highlands Ranch, Torrey Highlands, Black Mountain Ranch, Del Sur, Santaluz, 4S Ranch, Rancho Bernardo, Carmel Mountain Ranch, Sabre Springs, Rancho Peñasquitos, Scripps Ranch
+- [Southeastern San Diego & the Border](https://www.san-diego-appraiser.com/areas/region-southeast): Encanto, Paradise Hills, Skyline, Otay Mesa, San Ysidro, Nestor
+- [North County Coast](https://www.san-diego-appraiser.com/areas/region-coast): Oceanside, Carlsbad, La Costa, Leucadia, Encinitas, Olivenhain, Cardiff-by-the-Sea, Solana Beach, Del Mar
+- [North County Inland](https://www.san-diego-appraiser.com/areas/region-inland): Vista, San Marcos, San Elijo Hills, Lake San Marcos, Escondido, Harmony Grove & Elfin Forest, Hidden Meadows, Poway, Rancho Santa Fe, Fairbanks Ranch
+- [North County Groves & Ranchland](https://www.san-diego-appraiser.com/areas/region-groves): Fallbrook, Bonsall, Rainbow, De Luz, Pala, Pauma Valley, Valley Center
+- [East County](https://www.san-diego-appraiser.com/areas/region-east): La Mesa, Mount Helix / Casa de Oro, El Cajon, Granite Hills, Bostonia, Santee, Lakeside, Winter Gardens, Lemon Grove, Spring Valley, Rancho San Diego, Crest, Harbison Canyon, Alpine
+- [South Bay & Coronado](https://www.san-diego-appraiser.com/areas/region-southbay): Chula Vista, Eastlake, Otay Ranch, Bonita, National City, Imperial Beach, Coronado
+- [Mountains, Backcountry & Desert](https://www.san-diego-appraiser.com/areas/region-backcountry): Ramona, Julian, Santa Ysabel, Ranchita, Warner Springs, Jamul, Dulzura, Campo, Potrero, Descanso, Pine Valley, Boulevard, Jacumba Hot Springs, Borrego Springs
